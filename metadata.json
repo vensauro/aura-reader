@@ -1,0 +1,7 @@
+{
+  "name": "AuraReader - AI Powered Ebook Reader",
+  "description": "A sophisticated ebook reader with high-fidelity AI voice synthesis powered by Gemini, featuring PDF support and immersive reading experiences.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
